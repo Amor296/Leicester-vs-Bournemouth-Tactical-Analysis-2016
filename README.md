@@ -47,5 +47,5 @@ The analysis is divided into three main notebooks:
 ---
 
 ## 👨‍💻 Author
-**[Your Name/GitHub Username]**
+**[Amr Alaa , Amor296]**
 *Football Data Enthusiast | Python Developer*
